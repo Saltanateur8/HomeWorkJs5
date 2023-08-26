@@ -20,6 +20,11 @@
       "code": "usd",
       "amount": 88.19,
       "title": "Dollar"
+    },
+    {
+      "code": "aed",
+      "amount": 24.02,
+      "title": "Dirham"
     }
   ]
 }
